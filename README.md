@@ -4,15 +4,21 @@ Sitio inicial y propuesta de proyecto de emprendimiento para Tienda Digital Colo
 
 ## Documentos
 
+> **Nota:** esta carpeta **no se publica** en el sitio web. El sitio se genera desde la
+> rama `gh-pages`, que contiene únicamente la página comercial y el panel. Estos
+> documentos se conservan en el repositorio porque son material de trabajo interno.
+
 - [Análisis y diseño](docs/analisis-y-diseno.md) — alcance, requisitos, flujo de documentos, modelo de datos, pantallas y límites de la demo.
 - [Estado del prototipo](docs/estado-del-prototipo.md) — qué está implementado, cómo está construido el código y qué falta validar con el propietario.
 - [Plan: llevar a un sistema real](docs/plan-sistema-real.md) — qué falta para operar el negocio, las tres rutas con costos reales, y los límites legales y tributarios en Colombia.
 
 ## Demostración en vivo
 
-**https://wcarlosceballos.github.io/tdc-V01/gestion/**
+**Sitio comercial:** <https://wcarlosceballos.github.io/tdc-gestion/>
 
-Se publica desde la rama `gh-pages`, sin datos reales.
+**Panel de gestión:** <https://wcarlosceballos.github.io/tdc-gestion/gestion/>
+
+Se publica desde la rama `gh-pages`, sin datos reales de clientes.
 
 ## Propuesta de emprendimiento
 
