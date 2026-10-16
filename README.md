@@ -2,9 +2,16 @@
 
 Sitio inicial y propuesta de proyecto de emprendimiento para Tienda Digital Colombia, un negocio de soporte técnico y soluciones tecnológicas con atención en Lorica, Córdoba. La propuesta combina la unidad de negocio con el desarrollo gradual de un producto de software como proyecto formativo ADSO.
 
-## Documento de análisis y diseño
+## Documentos
 
-La propuesta completa, con alcance, requisitos, flujo de documentos, modelo de datos, pantallas y límites de la demo, está en [docs/analisis-y-diseno.md](docs/analisis-y-diseno.md).
+- [Análisis y diseño](docs/analisis-y-diseno.md) — alcance, requisitos, flujo de documentos, modelo de datos, pantallas y límites de la demo.
+- [Estado del prototipo](docs/estado-del-prototipo.md) — qué está implementado, cómo está construido el código y qué falta validar con el propietario.
+
+## Demostración en vivo
+
+**https://wcarlosceballos.github.io/tdc-V01/gestion/**
+
+Se publica desde la rama `gh-pages`, sin datos reales.
 
 ## Propuesta de emprendimiento
 
