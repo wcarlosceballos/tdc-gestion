@@ -6,6 +6,7 @@ Sitio inicial y propuesta de proyecto de emprendimiento para Tienda Digital Colo
 
 - [Análisis y diseño](docs/analisis-y-diseno.md) — alcance, requisitos, flujo de documentos, modelo de datos, pantallas y límites de la demo.
 - [Estado del prototipo](docs/estado-del-prototipo.md) — qué está implementado, cómo está construido el código y qué falta validar con el propietario.
+- [Plan: llevar a un sistema real](docs/plan-sistema-real.md) — qué falta para operar el negocio, las tres rutas con costos reales, y los límites legales y tributarios en Colombia.
 
 ## Demostración en vivo
 
